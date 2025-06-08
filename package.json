@@ -1,0 +1,19 @@
+{
+  "name": "couchdb",
+  "version": "1.0.0",
+  "description": "CouchDB INSY aufgabe",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swordpro3001/CouchDB.git"
+  },
+  "author": "Franz Puerto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Swordpro3001/CouchDB/issues"
+  },
+  "homepage": "https://github.com/Swordpro3001/CouchDB#readme"
+}
